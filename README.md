@@ -1,2 +1,2 @@
 # random-C-programs
-A random C program from skecthes
+A random C programs from skecthes
